@@ -1,3 +1,3 @@
 # Trial-Repo
 This is learning github
-##And this is trying the readme file
+## And this is trying the readme file
