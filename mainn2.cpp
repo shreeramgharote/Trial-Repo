@@ -18,7 +18,8 @@ int main()
         sum = sum + c;
     }
     cout<<endl<<endl;
-    for(int A : a)
+    for(int A : a
+    )
     { 
         cout<<a.at(A)<<" ";
         
